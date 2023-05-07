@@ -1,5 +1,5 @@
 
-<h1>NFT-Based Login System<h/1>
+<h1>NFT-Based Login System</h1>
 Users must have an NFT wallet to access the platform.
 Users must sign in using their NFT wallet address and private key.
 Users must have a sufficient balance of NFTs in their wallet to access content and services.
